@@ -1,0 +1,9 @@
+package-lock.json
+/node_modules
+/.cache
+.DS_Store
+
+
+.eslintcache
+/build
+api.js
